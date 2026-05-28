@@ -1,4 +1,59 @@
 #red {
-    color: red;
+    background-color: red;
+    min-height:50px;
+}
+
+#blue {
+    background-color: blue;
+    min-height:50px;
+}
+
+#yellow {
+    background-color: yellow;
+    min-height:50px;
+}
+
+#purple {
+    background-color: purple;
+    min-height:50px;
+}
+
+#orange {
+    background-color: orange;
+    min-height:50px;
+}
+
+#green {
+    background-color: green;
+    min-height:50px;
+}
+
+#yellow-orange {
+    background-color: yelloworange;
+    min-height:50px;
+}
+
+#red-orange {
+    background-color: green;
+    min-height:50px;
+}
+
+#red-violet {
+    background-color: green;
+    min-height:50px;
+}
+
+#blue-violet {
+    background-color: green;
+    min-height:50px;
+}
+
+#blue-green {
+    background-color: green;
+    min-height:50px;
+}
+
+#yellow-green {
+    background-color: green;
     min-height:50px;
 }
